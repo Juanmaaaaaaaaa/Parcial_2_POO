@@ -7,6 +7,9 @@ public class Player
 
     public Player(decimal gold)
     {
+        if (gold < 0)
+            throw new ArgumentException("Oro inválido");
+
         Gold = gold;
         Inventory = new PlayerInventory();
     }

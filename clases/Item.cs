@@ -1,18 +1,21 @@
 ﻿using System;
 
-public class Item
+public abstract class Item
 {
     public string Name { get; }
     public decimal Price { get; }
-    public ItemCategory Category { get; }
 
-    public Item(string name, decimal price, ItemCategory category)
+    protected Item(string name, decimal price)
     {
+        if (string.IsNullOrWhiteSpace(name))
+            throw new ArgumentException("El nombre no puede estar vacío");
+
         if (price <= 0)
             throw new ArgumentException("El precio debe ser positivo");
 
         Name = name;
         Price = price;
-        Category = category;
     }
+
+    public abstract ItemCategory Category { get; }
 }
