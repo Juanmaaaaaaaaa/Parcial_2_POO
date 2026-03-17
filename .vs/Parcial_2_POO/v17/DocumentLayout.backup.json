@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clases\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\PlayerInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clases\\PlayerInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\StoreInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clases\\StoreInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clases\\Store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clases\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "clases\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\PlayerInventory.cs",
+              "RelativeToolTip": "clases\\PlayerInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:54:08.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreInventory.cs",
+              "DocumentMoniker": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\StoreInventory.cs",
+              "RelativeDocumentMoniker": "clases\\StoreInventory.cs",
+              "ToolTip": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\StoreInventory.cs",
+              "RelativeToolTip": "clases\\StoreInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:48:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Item.cs",
+              "RelativeDocumentMoniker": "clases\\Item.cs",
+              "ToolTip": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Item.cs",
+              "RelativeToolTip": "clases\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:47:19.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Store.cs",
+              "RelativeDocumentMoniker": "clases\\Store.cs",
+              "ToolTip": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Store.cs",
+              "RelativeToolTip": "clases\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:46:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Player.cs",
+              "RelativeDocumentMoniker": "clases\\Player.cs",
+              "ToolTip": "C:\\Users\\notjm\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\clases\\Player.cs",
+              "RelativeToolTip": "clases\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:46:19.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
