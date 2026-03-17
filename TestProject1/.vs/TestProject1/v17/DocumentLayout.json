@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Carolina\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\TestProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\Carolina\\Downloads\\repo_pa_2\\Parcial_2_POO\\TestProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD477492-8623-434C-82A8-AF432299F504}|TestProject1.csproj|c:\\users\\carolina\\onedrive\\documentos\\github\\parcial_2_poo\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD477492-8623-434C-82A8-AF432299F504}|TestProject1.csproj|c:\\users\\carolina\\downloads\\repo_pa_2\\parcial_2_poo\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD477492-8623-434C-82A8-AF432299F504}|TestProject1.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Carolina\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\TestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Carolina\\Downloads\\repo_pa_2\\Parcial_2_POO\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Carolina\\OneDrive\\Documentos\\GitHub\\Parcial_2_POO\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Carolina\\Downloads\\repo_pa_2\\Parcial_2_POO\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T01:31:23.004Z",
               "EditorCaption": ""
