@@ -7,12 +7,18 @@ public class InventoryEntry
 
     public InventoryEntry(Item item, int quantity)
     {
+        if (quantity < 0)
+            throw new ArgumentException("Cantidad inválida");
+
         Item = item;
         Quantity = quantity;
     }
 
     public void Add(int amount)
     {
+        if (amount < 0)
+            throw new ArgumentException("Cantidad inválida");
+
         Quantity += amount;
     }
 
