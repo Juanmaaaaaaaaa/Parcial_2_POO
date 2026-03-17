@@ -8,4 +8,6 @@ public class ItemCategory
         Armor,
         Accessory,
         Supply
+
+     }
 }
