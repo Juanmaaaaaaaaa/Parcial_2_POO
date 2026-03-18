@@ -25,6 +25,7 @@ ADICIONALMENTE. Dado a que el archivo cuenta con dificultades y no hay pruebas p
 1. ¿QUÉ QUERIAMOS HACER RESPECTO LA PROGRAMACION ORIENTADA A OBJETOS?
 
 - Clase Item
+
 Primero, decidimos crear una clase llamada Item, donde hay nombre y precio, ademas que es una clase madre para la clase Armor, Weapon, Accesory y Supply. Con el objetivo de que las clases hijas tuviesen un atributo donde se evidenciara que eran objetos consumibles o portables.
 
 - Subclases Armor, Weapon, Accesory y Supply
