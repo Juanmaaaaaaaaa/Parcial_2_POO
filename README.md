@@ -71,11 +71,11 @@ Las pruebas se realizaron con una de los items que debia tener la tienda.
 Aqui se valida que se cree el jugador y que se le asigen correctamente el oro. Tambien se verifica que no se pueda crear un jugador con oro negativo.
 Las pruebas se realizaron con atributos y con un player al cual se le asigan el atributo.
 
-- Compra Exitosa Simple, Compracon Suficiente Oro
+- Compra Exitosa Simple, Compra Con Suficiente Oro
 
-Aqui se ingresan los datos de oro, orecio y cantidad, y se crea un item, player y un store para simular el proceso de compra. Luego el resultado de la compra se almacena en una variable y con eso se verifica que el resultado sea positivo (es decir que si se podia comprar) y que el oro del jugador sea efectivamente la cantidad que ya tenia - el valor de la compra. 
+Aqui se ingresan los datos de oro, precio y cantidad, y se crea un item, player y un store para simular el proceso de compra. Luego el resultado de la compra se almacena en una variable y con eso se verifica que el resultado sea positivo (es decir que si se podia comprar) y que el oro del jugador sea efectivamente la cantidad que ya tenia - el valor de la compra. 
 
-- Falla Por Falta De Oro y Falla POr Falta De Stock
+- Falla Por Falta De Oro y Falla Por Falta De Stock
 
 Aqui a proposito queremos que falle. se le ingresa el oro, precio y cantidad que va a comprar y se crea lo mismo que la prueba anterior, un item, player y store. y luego almacena la variable y debe verificar que esta de negativa dando fallo a la compra y depsues verificando que el dinero del player siga intacta dado a que se reverso la compra
 
