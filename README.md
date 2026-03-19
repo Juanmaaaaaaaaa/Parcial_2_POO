@@ -17,6 +17,11 @@ Por ende, la calidad de lo que entregamos es incluso desconocida para nosotros.
 
 Cabe aclarar, que este mensaje es con el objetivo de que puedas evidenciar que hicimos lo posible por realizar el examen de manera consiente, pero asi mismo resaltar que las dificutades con el repositorio, gitignore y ahora con la version del Nunit nos dejaron sin tiempo ni posibilidad de corregir lo que hicimos. No buscamos que esto mejore o empeore nuestra calificacion, solo queremos que entiendas que hicimos nuestro mejor esfuerzo durante la evaluacion.
 
+El error fue el siguiente:
+
+Excepción no controlada del tipo 'System.IO.FileNotFoundException' en Módulo desconocido.
+No se puede cargar el archivo o ensamblado 'System.Runtime, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ni una de sus dependencias. El sistema no puede encontrar el archivo especificado.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ADICIONALMENTE. Dado a que el archivo cuenta con dificultades y no hay pruebas para evidenciar que esta bien o que esta mal. decidimos dejar por escrito una breve explicacion de nuestra froma de solucionar la evaluacion. Quizas asi puedas evidenciar mejor las cosas erroneas y las buenas para asi facilitarse el proceso de evaluacion
