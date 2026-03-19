@@ -5,9 +5,7 @@ using System.Collections.Generic;
 [TestFixture]
 public class UnitTest1
 {
-    // -------------------------------
-    // ITEMS
-    // -------------------------------
+    
     private static IEnumerable<TestCaseData> ItemObjects()
     {
         yield return new TestCaseData(new Weapon("Espada", 100, 10))
@@ -30,9 +28,7 @@ public class UnitTest1
         Assert.That(item.Price, Is.GreaterThan(0));
     }
 
-    // -------------------------------
-    // STORE CREATION
-    // -------------------------------
+    
     private static IEnumerable<TestCaseData> StoreObjects()
     {
         yield return new TestCaseData(
@@ -65,9 +61,7 @@ public class UnitTest1
         Assert.Throws<ArgumentException>(() => new Store(new List<InventoryEntry>()));
     }
 
-    // -------------------------------
-    // PLAYER
-    // -------------------------------
+    
     private static IEnumerable<TestCaseData> PlayerObjects()
     {
         yield return new TestCaseData(100)
@@ -91,9 +85,7 @@ public class UnitTest1
         Assert.Throws<ArgumentException>(() => new Player(-10));
     }
 
-    // -------------------------------
-    // COMPRAS
-    // -------------------------------
+    
     private static IEnumerable<TestCaseData> CompraExitosa()
     {
         yield return new TestCaseData(500, 100, 2)
@@ -124,9 +116,7 @@ public class UnitTest1
         Assert.That(player.Gold, Is.EqualTo(gold - (price * quantity)));
     }
 
-    // -------------------------------
-    // COMPRA FALLIDA
-    // -------------------------------
+    
     private static IEnumerable<TestCaseData> CompraFallida()
     {
         yield return new TestCaseData(50, 100, 1)
@@ -154,12 +144,10 @@ public class UnitTest1
         });
 
         Assert.That(result, Is.False);
-        Assert.That(player.Gold, Is.EqualTo(gold)); // no cambia
+        Assert.That(player.Gold, Is.EqualTo(gold)); 
     }
 
-    // -------------------------------
-    // INVENTARIO
-    // -------------------------------
+    
     private static IEnumerable<TestCaseData> InventarioJugador()
     {
         yield return new TestCaseData(new Supply("Poción", 50, 20))
@@ -179,6 +167,6 @@ public class UnitTest1
             new PurchaseItem(item, 1)
         });
 
-        Assert.That(inventory, Is.Not.Null); // validación básica (sin getters)
+        Assert.That(inventory, Is.Not.Null); 
     }
 }
